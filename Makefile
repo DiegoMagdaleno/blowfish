@@ -1,4 +1,4 @@
-SUBDIR=	lib bin usr.bin share
+SUBDIR=	lib bin usr.bin usr.sbin share
 
 all:
 clean:
